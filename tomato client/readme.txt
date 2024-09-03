@@ -1,2 +1,2 @@
 free version: ?
-mc version: ?
+mc version: 1.8.x
