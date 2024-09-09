@@ -1,0 +1,1 @@
+This is the hotfix for Luna b10
